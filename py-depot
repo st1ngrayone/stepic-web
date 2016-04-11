@@ -7,3 +7,5 @@ svc = client.service
 
 print(svc.)
 print(svc.SayHello("Anton"))
+
+echo
